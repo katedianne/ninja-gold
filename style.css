@@ -1,0 +1,16 @@
+.ninja{
+    width: 100px;
+}
+
+.stage{
+    background-image: url("road.png");
+    background-size: cover;
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    margin: 0!important;
+}
+
+.ninja, .platform{
+    margin: auto;
+}
